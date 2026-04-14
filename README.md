@@ -106,7 +106,11 @@ Start your success journey today!
 
 # 5.PROMPT STRATEGY:
 •	Used role-based prompting (UGC content creator, marketing expert)
+
 •	Focused on problem–solution–CTA structure
+
 •	Created multiple hooks for engagement and attention
+
 •	Ensured content is relatable and natural for students
+
 •	Designed content suitable for social media platforms like Instagram
