@@ -35,14 +35,14 @@ http://app.base44.com/apps/69d4a2a1181ac80a64b575e5/editor/preview
 <img width="1279" height="881" alt="image" src="https://github.com/user-attachments/assets/da64cecc-84d1-42bf-9c9c-a777e08fd545" />
 
 
-# Task 2 – AI Content Marketing (UGC Ads)
+# Task 2 – AI CONTENT MARKETING (UGC ADS)
 ## Project: Bright Future Coaching Centre
 
-# 1.INTRODUCTION:
+# 1.Introduction:
 This project focuses on creating AI-generated UGC (User Generated Content) style advertisements for a coaching centre. The goal is to design engaging, relatable, and conversion-focused ad content using prompt engineering techniques.
 The content includes hooks, ad scripts, and captions suitable for platforms platforms like Instagram and YouTube Shorts.
 
-# 2.PROMPT:
+# 2.Prompt:
 Create 5 scroll-stopping hooks for a coaching centre ad in UGC style.
 
 # Output:
@@ -52,7 +52,7 @@ Create 5 scroll-stopping hooks for a coaching centre ad in UGC style.
 •	From “I don’t get this” to “this is easy” 💯
 •	If your marks aren’t improving, you need to see this ⚠️like Instagram and YouTube Shorts.
 
-# 3.UGC AD SCRIPTS:
+# 3.UGC AD Scripts:
 # Script 1:
 # Hook:
 “I wish I joined this coaching centre earlier 😭”
@@ -81,7 +81,7 @@ Script 3:
 # CTA:
 “Stop struggling alone. Join now and start seeing real results!”
 
-# 4.CAPTIONS
+# 4.Caption
 
 # Caption 1:
 Study Smart  
