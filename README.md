@@ -39,7 +39,10 @@ http://app.base44.com/apps/69d4a2a1181ac80a64b575e5/editor/preview
 ## Project: Bright Future Coaching Centre
 
 # 1.Introduction:
-This project focuses on creating AI-generated UGC (User Generated Content) style advertisements for a coaching centre. The goal is to design engaging, relatable, and conversion-focused ad content using prompt engineering techniques.
+This project focuses on creating AI-generated UGC (User Generated Content) style advertisements for a coaching centre. The goal is to design engaging, relatable, and conversion-focused ad content using prompt 
+
+engineering techniques.
+
 The content includes hooks, ad scripts, and captions suitable for platforms platforms like Instagram and YouTube Shorts.
 
 # 2.Prompt:
@@ -92,15 +95,21 @@ Maybe you just need the right guidance!
 
 # Caption 2:
 Concept Clarity  
+
 Less stress. More marks. Simple. ✨  
+
 The right coaching makes all the difference!  
+
 👉 Enroll now at Bright Future Coaching Centre  
 #NoStressStudy #ExamReady #StudentLife #CoachingCentre #BrightFuture #StudyGoals #SuccessJourney  
 
 # Caption 3:
 Student Success  
+
 Your dream marks are closer than you think 🎯  
+
 Start your success journey today!  
+
 👉 Join Bright Future Coaching Centre now  
 #DreamBigStudySmart #TopperMindset #StudentsLife #ExamPrep #BrightFuture #AchieveGoals #StudyMotivation  
 
