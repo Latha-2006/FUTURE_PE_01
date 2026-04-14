@@ -39,9 +39,9 @@ http://app.base44.com/apps/69d4a2a1181ac80a64b575e5/editor/preview
 ## Project: Bright Future Coaching Centre
 
 # 1.Introduction:
-This project focuses on creating AI-generated UGC (User Generated Content) style advertisements for a coaching centre. The goal is to design engaging, relatable, and conversion-focused ad content using prompt 
+This project focuses on creating AI-generated UGC (User Generated Content) style advertisements for a coaching centre. The goal is to design
 
-engineering techniques.
+engaging, relatable, and conversion-focused ad content using prompt engineering techniques.
 
 The content includes hooks, ad scripts, and captions suitable for platforms platforms like Instagram and YouTube Shorts.
 
@@ -49,11 +49,11 @@ The content includes hooks, ad scripts, and captions suitable for platforms plat
 Create 5 scroll-stopping hooks for a coaching centre ad in UGC style.
 
 # Output:
-•	Still struggling with studies? This might fix it 👀
-•	No more last-minute panic before exams… here’s why 👇
-•	I wish I joined this coaching centre earlier 😭
-•	From “I don’t get this” to “this is easy” 💯
-•	If your marks aren’t improving, you need to see this ⚠️like Instagram and YouTube Shorts.
+- Still struggling with studies? This might fix it 👀
+-	No more last-minute panic before exams… here’s why 👇
+-	I wish I joined this coaching centre earlier 😭
+-	From “I don’t get this” to “this is easy” 💯
+-	If your marks aren’t improving, you need to see this ⚠️like Instagram and YouTube Shorts.
 
 # 3.UGC AD Scripts:
 # Script 1:
@@ -88,8 +88,11 @@ Script 3:
 
 # Caption 1:
 Study Smart  
+
 Studying hard but not seeing results? 😓  
+
 Maybe you just need the right guidance!  
+
 👉 Join Bright Future Coaching Centre today  
 #StudySmart #ExamSuccess #StudentStruggles #CoachingWorks #BrightFuture #LearnBetter #MarksMatter  
 
