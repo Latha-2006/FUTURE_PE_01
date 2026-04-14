@@ -61,14 +61,14 @@ Create 5 scroll-stopping hooks for a coaching centre ad in UGC style.
 “I wish I joined this coaching centre earlier 😭”
 # Problem:
 “I wasted so much time trying to study on my own… no guidance, no clarity, just confusion before every exam.”
-Solution:
+# Solution:
 “But after joining Bright Future Coaching Centre, everything changed. The teachers explain concepts step-by-step, and studying actually feels easy now.”
 # CTA:
 “Don’t wait like I did… join now and make your studies stress-free!”
 # Script 2:
 # Hook:
 “No more last-minute panic before exams… here’s why 👇”
-Problem:
+# Problem:
 “I used to panic before every exam because I never felt prepared.”
 # Solution:
 “But here, they conduct regular tests and revision sessions, so I’m always confident and ready.”
