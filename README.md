@@ -44,7 +44,8 @@ The content includes hooks, ad scripts, and captions suitable for platforms plat
 
 # 2.PROMPT:
 Create 5 scroll-stopping hooks for a coaching centre ad in UGC style.
-Output:
+
+# Output:
 •	Still struggling with studies? This might fix it 👀
 •	No more last-minute panic before exams… here’s why 👇
 •	I wish I joined this coaching centre earlier 😭
@@ -53,47 +54,50 @@ Output:
 
 # 3.UGC AD SCRIPTS:
 Script 1:
-Hook:
+# Hook:
 “I wish I joined this coaching centre earlier 😭”
-Problem:
+# Problem:
 “I wasted so much time trying to study on my own… no guidance, no clarity, just confusion before every exam.”
 Solution:
 “But after joining Bright Future Coaching Centre, everything changed. The teachers explain concepts step-by-step, and studying actually feels easy now.”
-CTA:
+# CTA:
 “Don’t wait like I did… join now and make your studies stress-free!”
-Script 2:
-Hook:
+# Script 2:
+# Hook:
 “No more last-minute panic before exams… here’s why 👇”
 Problem:
 “I used to panic before every exam because I never felt prepared.”
-Solution:
+# Solution:
 “But here, they conduct regular tests and revision sessions, so I’m always confident and ready.”
-CTA:
+# CTA:
 “If you want to feel confident before exams, you should definitely check this out!”
 Script 3:
-Hook:
+# Hook:
 “If your marks aren’t improving, you need to see this ⚠️”
-Problem:
+# Problem:
 “I studied harder and harder, but my marks didn’t improve… it was really frustrating.”
-Solution:
+# Solution:
 “Then I joined Bright Future Coaching Centre. They focus on understanding concepts, not just memorizing—and that changed everything.
-CTA:
+# CTA:
 “Stop struggling alone. Join now and start seeing real results!”
 
 # 4.CAPTIONS:
-Caption 1:
+# Caption 1:
+
 Study Smart  
 Studying hard but not seeing results? 😓  
 Maybe you just need the right guidance!  
 👉 Join Bright Future Coaching Centre today  
 #StudySmart #ExamSuccess #StudentStruggles #CoachingWorks #BrightFuture #LearnBetter #MarksMatter  
-Caption 2:
+
+# Caption 2:
 Concept Clarity  
 Less stress. More marks. Simple. ✨  
 The right coaching makes all the difference!  
 👉 Enroll now at Bright Future Coaching Centre  
 #NoStressStudy #ExamReady #StudentLife #CoachingCentre #BrightFuture #StudyGoals #SuccessJourney  
-Caption 3:
+
+# Caption 3:
 Student Success  
 Your dream marks are closer than you think 🎯  
 Start your success journey today!  
