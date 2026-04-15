@@ -1,4 +1,4 @@
-## Task 3 – Prompt Optimization
+# Task 3 – Prompt Optimization
 
 # Project: Bright Future Coaching Centre
 
@@ -30,11 +30,11 @@ Keep it simple and clear.
 
 # Output:
 
-# Hook: Marks not improving despite hard work?  
+ Hook: Marks not improving despite hard work?  
 
-# Benefits: Learn with expert teachers, simple explanations, and regular practice tests.  
+ Benefits: Learn with expert teachers, simple explanations, and regular practice tests.  
 
-# CTA: 👉 Join Bright Future Coaching Centre now!
+ CTA: 👉 Join Bright Future Coaching Centre now!
 
 
 # 4. Final Optimized Prompt
