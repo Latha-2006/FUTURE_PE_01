@@ -1,23 +1,23 @@
-Task 3 – Prompt Optimization
+## Task 3 – Prompt Optimization
 
-Project: Bright Future Coaching Centre
+# Project: Bright Future Coaching Centre
 
 
-1. Introduction
+# 1. Introduction
 
 This task focuses on prompt optimization, where a simple prompt is gradually improved to generate better and more structured outputs. The aim is to understand how refining prompts can enhance the quality, clarity, and effectiveness of AI-generated content.
 
 
-2. Basic Prompt
+# 2. Basic Prompt
 
 Write an advertisement for a coaching centre.
 
-Output:
+# Output:
 
 Join our coaching centre to improve your studies. We provide good teaching and help students score better marks. Enroll now for success.
 
 
-3. Improved Prompt
+# 3. Improved Prompt
 
 Write a short advertisement for a coaching centre.
 
@@ -28,16 +28,16 @@ Include:
 
 Keep it simple and clear.
 
-Output:
+# Output:
 
-Hook: Marks not improving despite hard work?  
+# Hook: Marks not improving despite hard work?  
 
-Benefits: Learn with expert teachers, simple explanations, and regular practice tests.  
+# Benefits: Learn with expert teachers, simple explanations, and regular practice tests.  
 
-CTA: 👉 Join Bright Future Coaching Centre now!
+# CTA: 👉 Join Bright Future Coaching Centre now!
 
 
-4. Final Optimized Prompt
+# 4. Final Optimized Prompt
 
 Act as a UGC content creator.
 
@@ -55,7 +55,7 @@ Tone:
 
 Make it engaging and realistic.
 
-Output:
+# Output:
 
 “Still struggling with studies? This might fix it 👀”
 
@@ -66,12 +66,12 @@ But after joining Bright Future Coaching Centre, everything changed. The teacher
 Don’t wait like I did… join now and make your studies easier!
 
 
-5. Comparison
+# 5. Comparison
 
 The basic prompt produces a simple and general output without any structure. The improved prompt adds clarity and structure by including a hook, benefits, and call to action. The final optimized prompt generates a highly engaging, relatable, and well-structured advertisement by clearly defining the role, tone, and format.
 
 
-6. Prompt Strategy
+# 6. Prompt Strategy
 
 - Started with a simple prompt to observe basic output  
 - Added structure (hook, benefits, CTA)  
